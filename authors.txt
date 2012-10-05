@@ -1,0 +1,20 @@
+Authors
+========
+Sahil Ghai === sahil.ghai@iiitb.net
+Anmol Prakash Gautam === anmolprakash.gautham@iiitb.net
+Ramachandra Kousik A.S == ramachandra.kousik@iiitb.net
+
+Free to use this code and build upon it.
+
+This contains the
+
+1) Database
+2) The buffer Manager along with page replacement policy
+3) An indexer (B plus tree)
+
+Things that could be done
+=========================
+
+1) Build a GUI for this! 
+
+
